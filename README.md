@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skostidou
 - 👀 I’m interested in Tech Statements
-- 🌱 I’m currently learning in SQL
+  
 
 
 <!---
